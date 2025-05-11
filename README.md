@@ -2,7 +2,7 @@
 
 This mod allows you to enable the Debug Menu in-game.
 
-<img src="screenshot.gif" alt="Screenshot" width="600">
+<img src="screenshot.png" alt="Screenshot" width="600">
 
 ## Features
 
