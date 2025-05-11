@@ -60,7 +60,7 @@ Note: If you're installing an updated version of this mod, just overwrite the ex
 
 ## Known Issues
 
-Report issues here or message Logic on Discord: `gage.sh`
+- Report issues here or message Logic on Discord: `gage.sh`
 
 ## Troubleshooting
 
