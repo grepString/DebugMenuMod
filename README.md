@@ -1,4 +1,4 @@
-# DebugMenuMod Mod for Drive Beyond Horizons
+# DebugMenuMod for Drive Beyond Horizons
 
 This mod allows you to enable the Debug Menu in-game.
 
